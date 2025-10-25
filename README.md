@@ -36,9 +36,10 @@ I'm a computer engineer with a passion for blending logic and art. This resume r
 - Future updates will include responsive design and animation
 
 ## 📷 Preview
-## 📷 Preview
-![Resume Screenshot](https://raw.githubusercontent.com/parniamh/digital-resume-plus-css/main/prev.gif)
+for see preview click on prev.gif
 
+## 📷 Preview
+![Resume Screenshot](https://raw.githubusercontent.com/parniamh/digital-resume-plus-css/main/assets/prev.gif)
 
 
 
