@@ -39,4 +39,5 @@ I'm a computer engineer with a passion for blending logic and art. This resume r
 ![Resume Screenshot](https://raw.githubusercontent.com/parniamh/digital-resume-plus-css/main/assets/prev.gif)
 
 
+
 Feel free to fork, explore, or reach out if you'd like to collaborate!
